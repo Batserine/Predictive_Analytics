@@ -11,3 +11,4 @@ Python data products for predictive analytics
 * Model Evaluation.
 * Report classification results.
 * Error calculation for regression. 
+* Model Boosting/ Tuning Up.
